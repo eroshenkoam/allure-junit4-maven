@@ -1,0 +1,122 @@
+{
+  "f3a7e484b86711cf869dfdfe0e19e7ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e435871f2f52ecaa",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/1//#testresult/e435871f2f52ecaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598364470901,
+        "stop" : 1598364470902,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7b6b8a2f8e238d3b30275e2fd96e0b11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae19645b2ecbf080",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/1//#testresult/ae19645b2ecbf080",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598364470933,
+        "stop" : 1598364470943,
+        "duration" : 10
+      }
+    } ]
+  },
+  "f3c60da6e233987a17a16258c52429ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "740ba42cd7da783a",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/1//#testresult/740ba42cd7da783a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598364470840,
+        "stop" : 1598364470841,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fc6cb7e44fb1c98115b734d2e79fec7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10225b8e0577d99b",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/1//#testresult/10225b8e0577d99b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598364470898,
+        "stop" : 1598364470899,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b2e8b119cbd0cf616f1cf7ed5c768cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce19d491a7f46863",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/1//#testresult/ce19d491a7f46863",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598364470948,
+        "stop" : 1598364470988,
+        "duration" : 40
+      }
+    } ]
+  },
+  "c45db4b7efd52189651e5e579649e598" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b0f771f893c3774",
+      "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/1//#testresult/7b0f771f893c3774",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598364470656,
+        "stop" : 1598364470681,
+        "duration" : 25
+      }
+    } ]
+  }
+}
